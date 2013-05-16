@@ -3,4 +3,6 @@ monotonic_timer
 
 A cross platform monotonic timer implementation.
 
-See `example.c` for sample usage.
+See [my blog
+post](http://codearcana.com/posts/2013/05/15/a-c-cross-platform-monotonic-timer.html)
+for a motivation for this project and `example.c` for sample usage.
