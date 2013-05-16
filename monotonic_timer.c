@@ -39,6 +39,7 @@
   }
 
 #elif defined(_MSC_VER)
+  // On Windows, use QueryPerformanceCounter and QueryPerformanceFrequency.
 
   #include <windows.h>
 
