@@ -1,4 +1,4 @@
-cycle_timer
-===========
+monotonic_timer
+===============
 
-A cross platform cycle timer implementation.
+A cross platform monotonic timer implementation.
